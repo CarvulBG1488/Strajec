@@ -5,5 +5,9 @@ ivan se kazvam
 4
 5
 6
+<<<<<<< HEAD
 Ïðîìÿíà ñ Tortoise…"
 g
+=======
+"Ïðîìÿíà ñ Bash…"
+>>>>>>> aea179b0195f9985c3fb9d7803965cf9385da7ea
